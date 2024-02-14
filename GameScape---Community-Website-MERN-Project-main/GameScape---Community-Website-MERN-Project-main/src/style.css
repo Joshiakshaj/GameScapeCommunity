@@ -1,0 +1,129 @@
+p{
+    margin: 0px !important;
+}
+
+html, body, #root, #app, #app>div {
+    height: 100%;
+    background-color: #262626;
+  }
+
+.navSmall{
+    height: 1.66em;
+}
+
+.logoSize{
+    height:7.5em;
+    width: 7.5em;
+}
+
+.navbarIconImage{
+  height: 2.66em;
+}
+
+.bgDarkGray{
+    background-color: #1a1a1a;
+}
+
+.bgBlack{
+    background-color: black;
+}
+
+.bgLightGray{
+    background-color: #262626;
+}
+
+.bgLighterGray{
+    background-color: #303030;
+}
+
+.lightGray{
+    color: #999999;
+}
+
+.lightBorder{
+    border: 2px solid #333333;
+}
+
+.smallText{
+    font-size: 0.8em;
+}
+
+.smallishText{
+    font-size: 0.9em;
+}
+
+.dropdown-menu {
+    min-width: 60px !important;
+  }
+
+  .pe-pointer {
+    cursor: pointer;
+  }
+
+  .hoverDanger :hover { 
+    border-color:#DC3545 !important;
+  }
+
+  .likeSmall{
+    height: 0.9em;
+  }
+
+  .likeButton{
+    padding: 0 !important;
+    display: inline-flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: none;
+    position: relative;
+    top:0.15em;
+  }
+
+  .likeButton :hover {
+    color: #DC3545 !important;
+  }
+
+  .hoverDanger:hover {
+    color: #DC3545 !important;
+    border-color: #DC3545 !important;
+  }
+
+  .justify-self-end{
+    justify-self: end !important;
+  }
+  
+  .sortBy{
+    position: relative !important;
+    top: 0.1em;
+  }
+
+  img{
+    object-fit: contain;
+    height: 20em;
+  }
+
+  .gameCard{
+    height: 18.77em;
+    width:14em
+  }
+
+  .gameCard img{
+    overflow: hidden;
+    min-width:100% !important;
+    max-height: 90% !important;
+  }
+
+
+  /* .reactMarkDown {
+    padding: 0px !important;
+    margin: 0px !important;
+    margin-top: 0px !important;
+    line-height: unset !important;
+    border: 0px !important;
+    margin: 0px !important;
+    font-size: 14px !important;
+  }
+  
+  .reactMarkDown p {
+    margin: 0px !important;
+  } */
+
